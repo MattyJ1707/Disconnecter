@@ -1,0 +1,6 @@
+name: Disconnecter
+version: 1.0
+main: disconnect.main
+commands:
+  disconnect:
+  dc:
